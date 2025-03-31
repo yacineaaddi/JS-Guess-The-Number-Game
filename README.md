@@ -1,1 +1,1 @@
-README file : Guess the number
+Guess the number
