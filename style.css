@@ -45,7 +45,9 @@ main {
   font-size: 2rem;
 }
 
-/* ELEMENTS STYLE */
+/*---------- Elements Style ----------*/
+
+
 h1 {
   font-size: 4rem;
   text-align: center;
@@ -117,6 +119,8 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+/*---------- Mobile Responsive ----------*/
 
 @media only screen and (max-width: 600px){
 .btn {
