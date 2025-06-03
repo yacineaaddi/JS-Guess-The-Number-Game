@@ -1,12 +1,12 @@
-# JS Guess The Number Game
+# 📦 JS Guess The Number Game
 
 A fun and interactive number guessing game built with HTML, CSS, and JavaScript. Players attempt to guess a randomly generated number within a specified range, with feedback provided after each guess.
 
-## Demo
+## 🔗 Demo
 
 _A live demo link will be added here soon._
 
-## Features
+## ✨ Features
 
 - **Random Number Generation** : Generates a random number within a predefined range at the start of each session.
 
@@ -16,7 +16,7 @@ _A live demo link will be added here soon._
 
 - **Responsive Design** : Ensures the game interface is user-friendly across various devices.
 
-## Installation
+## ⚙️ Installation
 
 1. **Clone the repository**:
 
@@ -33,15 +33,15 @@ _A live demo link will be added here soon._
 3. **Open the game in your browser**:
    Open `index.html` with your preferred web browser to start playing the game.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **HTML** : Structures the content of the web application.
+- 💻 **HTML** : Structures the content of the web application.
 
-- **CSS** : Styles the application for a clean and interactive interface.
+- 🎨 **CSS** : Styles the application for a clean and interactive interface.
 
-- **JavaScript** : Implements the core game logic, including number generation, user input handling, and feedback mechanisms.
+- ⚙️ **JavaScript** : Implements the core game logic, including number generation, user input handling, and feedback mechanisms.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 ├── index.html
@@ -52,15 +52,15 @@ _A live demo link will be added here soon._
 └── README.md
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are always welcome! Feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 **Yacine Aaddi** - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
